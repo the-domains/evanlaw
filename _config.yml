@@ -1,19 +1,4 @@
-name: evanlaw
-favicon: null
-layout_spectrum: 0.26795
 typography_spectrum: 0.7571
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -25,4 +10,23 @@ color:
   lightness: 0.1700038299895823
   saturation: 0.29187112767249346
   rhythmicContrast: 0.46498737670481205
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.26795
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: evanlaw
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Test
+    id: f8daf20a-71b7-45c9-a6d5-b787925300b5
+    type: content
+favicon: null
 purpose: []
